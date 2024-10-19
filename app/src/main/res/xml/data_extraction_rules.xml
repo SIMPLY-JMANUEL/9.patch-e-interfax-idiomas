@@ -1,0 +1,3 @@
+<rules>
+    <include domain="sharedpref" path=".*" />
+</rules>
